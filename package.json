@@ -1,6 +1,6 @@
 {
-  "name": "elastic-apm-node",
-  "version": "3.36.0",
+  "name": "@picryl/elastic-apm-node",
+  "version": "3.36.2",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
